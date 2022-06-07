@@ -13843,3 +13843,17 @@ body.event-page .react-upcoming__event .event__card .event_time {
 label.error{
   color: #f00 !important;
 }
+
+.button {
+  background-color: #1c87c9;
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+
+  cursor: pointer;
+  margin-left: 35%;
+}
